@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>🌱 Smart Agriculture IoT System 🚜</h1>
-  <p><i>An automated, crop-specific smart irrigation and monitoring solution built with ESP8266 & Blynk.</i></p>
+  <img src="banner.svg" alt="Smart Agriculture IoT System Banner" />
 </div>
 
 <br>
@@ -108,13 +107,15 @@ Create a new project in your Blynk IoT Dashboard and configure the Datastreams a
 
 Here are some images of the hardware setup and outputs.
 
-*(Add more images from the `OUTPUT` folder as needed)*
-- `OUTPUT/1.jpeg`
-- `OUTPUT/2.jpeg`
-- `OUTPUT/3.jpeg`
-- `OUTPUT/4.jpeg`
-- `OUTPUT/5.jpeg`
-- `OUTPUT/6.jpeg`
+<div align="center">
+  <img src="OUTPUT/1.jpeg" width="30%" alt="Hardware Setup 1" />
+  <img src="OUTPUT/2.jpeg" width="30%" alt="Hardware Setup 2" />
+  <img src="OUTPUT/3.jpeg" width="30%" alt="Hardware Setup 3" />
+  <br><br>
+  <img src="OUTPUT/4.jpeg" width="30%" alt="Hardware Setup 4" />
+  <img src="OUTPUT/5.jpeg" width="30%" alt="Hardware Setup 5" />
+  <img src="OUTPUT/6.jpeg" width="30%" alt="Hardware Setup 6" />
+</div>
 
 ## 🧠 How it Works (Logic)
 
