@@ -1,6 +1,9 @@
-# Smart Agriculture IoT System
+<div align="center">
+  <h1>🌱 Smart Agriculture IoT System 🚜</h1>
+  <p><i>An automated, crop-specific smart irrigation and monitoring solution built with ESP8266 & Blynk.</i></p>
+</div>
 
-![Project Banner](OUTPUT/1.jpeg) *(Note: You can update the banner image path as needed)*
+<br>
 
 This project is a comprehensive **Smart Agriculture IoT System** built using the ESP8266 microcontroller and the Blynk platform. It continuously monitors environmental and soil parameters, provides automated and manual water pump control based on selected crop needs, and ensures the safety of the hardware by preventing the pump from running dry.
 
@@ -125,4 +128,11 @@ The system runs an update cycle every 2 seconds:
 5. **Update UI**: Refreshes the local OLED display and sends the updated datastreams to the Blynk cloud.
 
 ---
-*Created for automated, remote-controlled smart farming.*
+
+<div align="center">
+  <h3>🌱 Cultivating the future with IoT and Automation</h3>
+  <img src="https://img.shields.io/badge/Project-Smart%20Agriculture-2ea44f?style=for-the-badge&logo=espressif&logoColor=white" alt="Smart Agriculture" />
+  <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Platform-Blynk_IoT-2ea44f?style=for-the-badge&logo=arduino&logoColor=white" alt="Platform" />
+  <p><i>Designed for efficient, remote-controlled farming.</i></p>
+</div>
